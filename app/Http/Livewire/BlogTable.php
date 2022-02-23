@@ -10,7 +10,9 @@ use Illuminate\Http\Request;
 
 class BlogTable extends Component
 {  
-     
+   
+    
+    // Hello
 
     public function printExcel()
     {
